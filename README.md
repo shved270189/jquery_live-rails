@@ -20,10 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-Add this line to your app/assets/javascripts/application.js
+Add this line to your app/assets/javascripts/application.js :
 
 ```javascript
+//= require jquery
 //= require jquery.live
+```
+
+And then use jquery_live in your javascript code:
+
+```javascript
+$('div.popup').live('click', function(event){});
 ```
 
 ## Contributing
