@@ -1,6 +1,6 @@
-# JqueryLive::Rails
+# jQuery Live for Rails
 
-TODO: Write a gem description
+Gem for adding [jquery_live](https://github.com/shved270189/jquery_live) to Rails application
 
 ## Installation
 
@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your app/assets/javascripts/application.js
+
+```javascript
+//= require jquery.live
+```
 
 ## Contributing
 
