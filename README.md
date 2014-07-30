@@ -1,5 +1,7 @@
 # jQuery Live for Rails
 
+[![Gem Version](https://badge.fury.io/rb/jquery_live-rails.svg)](http://badge.fury.io/rb/jquery_live-rails)
+
 Gem for adding [jquery_live](https://github.com/shved270189/jquery_live) to Rails application
 
 ## Installation
