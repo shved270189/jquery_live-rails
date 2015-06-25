@@ -1,5 +1,7 @@
 # jQuery Live for Rails
 
+[![Join the chat at https://gitter.im/shved270189/jquery_live-rails](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shved270189/jquery_live-rails?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gem Version](https://badge.fury.io/rb/jquery_live-rails.svg)](http://badge.fury.io/rb/jquery_live-rails)
 
 Gem for adding [jquery_live](https://github.com/shved270189/jquery_live) to Rails application
